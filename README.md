@@ -22,11 +22,20 @@
       *  newman run CollectionName.json -e EnvironmentName.json -r cli,html
       *  newman run CollectionName.json -e EnvironmentName.json -r cli,htmlextra
  # API Documentation
-    * https://docs.google.com/document/d/1YyzPMbEu6eEMFrvp-WHiJW-SvDTJvikqx1QGyyFgRXw/edit
+      * https://docs.google.com/document/d/1YyzPMbEu6eEMFrvp-WHiJW-SvDTJvikqx1QGyyFgRXw/edit
 
 ![Screenshot (17)](https://github.com/sadia049/Api_testing_crud/assets/62026906/eef50669-b157-41b8-8bf1-f6138c0d87b2)
 
 # Test Cases 
   * 50+ Test cases have been written to ensure the accuracy of functionality and including all negative and corner test cases
+
+# Postman Execution
+  ![postman](https://github.com/sadia049/Api_testing_crud/assets/62026906/d5815310-e396-4ada-8e6c-3d1f4bb37541)
+
+# Newman Report
+  ![Screenshot (18)](https://github.com/sadia049/Api_testing_crud/assets/62026906/711f6e25-c053-4f4f-9262-2ad24d4b7b7e)
+
+ 
+
 
     
