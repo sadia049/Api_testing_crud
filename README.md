@@ -4,7 +4,7 @@
 * Introduction
 * Install
 * API Documentation
-* Test Cases written
+* Test Cases 
 * Postman Execution
 * Newman Report
 
@@ -25,3 +25,8 @@
     * https://docs.google.com/document/d/1YyzPMbEu6eEMFrvp-WHiJW-SvDTJvikqx1QGyyFgRXw/edit
 
 ![Screenshot (17)](https://github.com/sadia049/Api_testing_crud/assets/62026906/eef50669-b157-41b8-8bf1-f6138c0d87b2)
+
+# Test Cases 
+  * 50+ Test cases have been written to ensure the accuracy of functionality and including all negative and corner test cases
+
+    
