@@ -7,6 +7,7 @@
 * Test Cases 
 * Postman Execution
 * Newman Report
+* Performance Testing
 
 # Introduction
   This documentt shows how to perform api testing from test cases and api documentation using postman and newman report
